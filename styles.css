@@ -57,7 +57,7 @@ body {
     font-size: 15.5px;
     color: hsl(224, 23%, 55%);
     text-align: center;
-    line-height: 2;
+    line-height: 1.5;
     transition: 0.8s;
 }
 
