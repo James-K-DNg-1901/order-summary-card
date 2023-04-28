@@ -11,8 +11,8 @@ body {
 }
 
 .card-container {
-    width: 400px;
-    height: 630px;
+    width: 25rem;
+    height: 39rem;
     margin: 5%;
     background-color: #fff;
     border-radius: 15px;
@@ -26,7 +26,7 @@ body {
 }
 
 .img-container {
-    width: 400px;
+    width: 25rem;
     height: 200px;
     background: url(images/illustration-hero.svg) no-repeat; 
     background-size: 100%;
@@ -65,7 +65,7 @@ body {
 
 .deal-container {
     height: 80px;
-    width: 300px;
+    width: 18.5rem;
     background-color: hsl(225, 100%, 98%);
     border-radius: 15px;
     display: grid;
@@ -121,7 +121,7 @@ body {
 }
 
 .btn {
-    width: 300px;
+    width: 18.5rem;
     height: 45px;
     font-size: 0.8rem;
     color: #fff;
@@ -157,8 +157,8 @@ body {
         background-size: 200%;
     }
     .card-container {
-        width: 300px;
-        height: 500px;
+        width: 18.7rem;
+        height: 30rem;
         gap: 0px;
     }
 
@@ -180,12 +180,12 @@ body {
     }
 
     .deal-container {
-        width: 240px;
+        width: 15rem;
         grid-template-columns: 60px 75px 90px;
     }
 
 
     .btn {
-        width: 240px;
+        width: 15rem;
     }
 }
